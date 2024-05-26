@@ -1,11 +1,11 @@
 {
-    "name": "Aladdine Abdou",
-    "description": "Mobile App Developer",
-    "subDescription": "Flutter & Python Enthusiast",
+    "name": "Elie Omatuku",
+    "description": "Senior Android Developer",
+    "subDescription": "Flutter Enthusiast",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/ElieOmatuku97",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -13,17 +13,17 @@
             }
         },
         {
-            "tooltip": "Twitter",
-            "url": "https://twitter.com/AladdineDev",
+            "tooltip": "Medium",
+            "url": "https://medium.com/@elieomatuku",
             "icon": {
-                "codePoint": "0xf0ea",
+                "codePoint": "0xf008",
                 "fontFamily": "FontAwesome",
                 "fontPackage": "icons_plus"
             }
         },
         {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "https://www.linkedin.com/in/elie-omatuku-a0374610b/",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome",
@@ -31,8 +31,8 @@
             }
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "elieomatuku@gmail.com",
+            "url": "mailto:elieomatuku@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome",
@@ -40,8 +40,8 @@
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+45 91 45 40 29",
+            "url": "tel:+4591454029",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome",
@@ -52,172 +52,134 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1l-nTyTQZnVNhZSdSh1joss3mTWa7xanz/view?usp=sharing"
         },
         {
             "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1l-nTyTQZnVNhZSdSh1joss3mTWa7xanz/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Hi! I'm Aladdine, an apprentice developer and fourth-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical experience to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.",
+    "aboutDescription": "Hi there \uD83D\uDC4B! I'm Elie, I am an Android Engineer \uD83E\uDD16, I also dabble in Flutter on my free time. I’m originally from Congo \uD83C\uDDE8\uD83C\uDDE9, lived for a while in Cape Town, South Africa \uD83C\uDDFF\uD83C\uDDE6 and now based in Copenhagen, Denmark \uD83C\uDDE9\uD83C\uDDF0.\n\nI have been working in the mobile application development industry since 2018, a buggy road it has been (that was a play on word for bumpy road \uD83D\uDE48) but I still enjoy it. \uD83D\uDE05",
     "experiences": [
         {
-            "role": "Mobile App Developer",
-            "company": "Walt Disney Imagineering",
-            "description": "Development of an offline-first mobile snagging application for Disneyland Paris, streamlining information gathering for technical experts in the field and enhancing communication with maintenance services for problem-solving.",
+            "role": "Senior Android Developer",
+            "company": "Shape Games",
+            "description": "As a Senior Android Developer, I am responsible for engineering/developing, maintaining, and improving Shape Games Android Mobile applications and SDKs.",
+            "isPresent": true,
+            "startYear": 2023,
+            "startMonth": 9,
+            "technologies": [
+                {
+                    "name": "Android",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Java",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/java.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.shapegames.com/",
+                    "display": "Shape Games"
+                }
+            ]
+        },
+        {
+            "role": "Intermediate Android Developer",
+            "company": "Takealot.com. Cape Town, SA",
+            "description": "As an Intermediate Android Developer, I am responsible for engineering/developing, maintaining, and improving Takealot.com shop front Android Mobile application.",
             "isPresent": false,
-            "startYear": 2022,
-            "endYear": 2023,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/flutter.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/images/logos/other/dart.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Django",
-                    "icon": {
-                        "codePoint": "0xeee7",
-                        "fontFamily": "BoxIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/python.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "PostgreSQL",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/postgresql.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "SQLite",
-                    "icon": {
-                        "codePoint": "0xe944",
-                        "fontFamily": "OctIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "AWS",
-                    "icon": {
-                        "codePoint": "0xeed1",
-                        "fontFamily": "BoxIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
-                }
-            ]
-        },
-        {
-            "role": "Mobile App Developer",
-            "company": "Solutions Multi Techniques",
-            "description": "Development of a Progressive Web App for security system technicians, enabling them to generate comprehensive PDF quotes. This allows for the immediate delivery of quotes to clients after their visit, thereby increasing the conversion rate.",
-            "startYear": 2022,
-            "startMonth": 1,
-            "endYear": 2022,
-            "endMonth": 2,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/flutter.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/images/logos/other/dart.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Firebase",
-                    "icon": {
-                        "assetName": "assets/images/logos/other/firebase.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                }
-            ]
-        },
-        {
-            "role": "Web Developer",
-            "company": "Association FAIRE",
-            "description": "Development of the association's website, in collaboration with a group of developers. It provides visitors with the opportunity to learn more about the association and become members.\nTo date, the website has attracted over 10,000 visits.",
             "startYear": 2021,
-            "startMonth": 5,
-            "endYear": 2021,
-            "endMonth": 6,
+            "startMonth": 9,
+            "endYear": 2023,
+            "endMonth": 8,
             "technologies": [
                 {
-                    "name": "HTML",
+                    "name": "Android",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/html-5.svg",
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "CSS",
+                    "name": "Kotlin",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/css3.svg",
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "Javascript",
+                    "name": "Java",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/javascript.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/mariadb.svg",
+                        "assetName": "assets/images/logos/software-development/java.svg",
                         "fontPackage": "icons_plus"
                     }
                 }
             ],
             "links": [
                 {
-                    "url": "https://www.association-faire.fr",
-                    "display": "Association FAIRE"
+                    "url": "https://www.takealot.com/",
+                    "display": "Takealot.com"
+                }
+            ]
+        },
+        {
+            "role": "Junior Android Developer",
+            "company": "Flat Circle (PYT) Ltd. Cape Town, SA",
+            "description": "As a Junior Mobile Developer, I was responsible for engineering/developing and maintaining Mobile development projects for Flat Circle (PYT) Ltd., its clients and business associates and researching new technologies applicable to the company line of work.",
+            "startYear": 2018,
+            "startMonth": 2,
+            "endYear": 2021,
+            "endMonth": 8,
+            "technologies": [
+                {
+                    "name": "Android",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Java",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/java.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/flutter.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
+                        "fontPackage": "icons_plus"
+                    }
                 }
             ]
         }
@@ -225,100 +187,44 @@
     "present": "Present",
     "projects": [
         {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "name": "Cineast Android",
+            "description": "A Movies Android App built on TMDB API featuring popular, in theater, upcoming and top rated movies. App also features popular actors/actresses.",
+            "url": "https://github.com/ElieOmatuku97/cineast_android#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/portfolio.png",
+            "screenshotPath": "assets/images/cineast_front_image.png",
             "technologies": [
                 {
-                    "name": "Flutter",
+                    "name": "Android",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/flutter.svg",
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "Dart",
+                    "name": "Kotlin",
                     "icon": {
-                        "assetName": "assets/images/logos/other/dart.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
-                }
-            ]
-        },
-        {
-            "name": "Learn Flow API",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
-            "url": "https://github.com/AladdineDev/learnflow-api#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "fontPackage": "icons_plus",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/learnflow-api.png",
-            "technologies": [
-                {
-                    "name": "Node.js",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/nodejs.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Express",
-                    "icon": {
-                        "assetName": "assets/images/logos/other/express-js.svg",
-                        "fontPackage": "icons_plus",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "TypeScript",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/typescript.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "MongoDB",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/mongodb.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
                         "fontPackage": "icons_plus"
                     }
                 }
             ]
         },
         {
-            "name": "Learn Flow Backoffice",
-            "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "name": "Starwars Flutter",
+            "description": "A Flutter application that allows Star Wars fans to browse the information provided by the free Star Wars API..",
+            "url": "https://github.com/ElieOmatuku97/starwars_flutter#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "screenshotPath": "assets/images/starwars_front_page.png",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -337,94 +243,56 @@
             ]
         },
         {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "name": "Migrating to Navigation with Jetpack Compose",
+            "description": "Suppose, that you have done the hard part of migrating all your views to jetpack compose. However, your navigation still relies on the view system navigation and you’d also like to fully migrate to navigating with jetpack compose. Seat tight and bring out the popcorns, this article covers just that.",
+            "url": "https://medium.com/@elieomatuku/migrating-to-navigation-with-jetpack-compose-442d90f3d904",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/gsb-frais.png",
+            "screenshotPath": "assets/images/navigation_article_front_image.png",
             "technologies": [
                 {
-                    "name": "Symfony",
+                    "name": "Android",
                     "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome",
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "PHP",
+                    "name": "Kotlin",
                     "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/images/logos/other/bootstrap.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/mariadb.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
                         "fontPackage": "icons_plus"
                     }
                 }
             ]
         },
         {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
+            "name": "Using Jetpack Compose in an existing...",
+            "description": "Jetpack Compose has been stable for over a year now, and since then a massive adoption of the new UI tool has ensued. Although, an adoption has increased, there are still a lot of questions on how to integrate composables in an existing Android application which heavily relies on the View system.",
+            "url": "https://medium.com/@elieomatuku/using-jetpack-compose-in-an-existing-android-application-36df3f38d3dc",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "fontPackage": "icons_plus",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
+            "screenshotPath": "assets/images/migration_article_front_image.png",
             "technologies": [
                 {
-                    "name": "Flask",
+                    "name": "Android",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/flask.svg",
-                        "fontPackage": "icons_plus",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/python.svg",
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
                         "fontPackage": "icons_plus"
                     }
                 },
                 {
-                    "name": "MariaDB",
+                    "name": "Kotlin",
                     "icon": {
-                        "assetName": "assets/images/logos/software-development/mariadb.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
                         "fontPackage": "icons_plus"
                     }
                 }
