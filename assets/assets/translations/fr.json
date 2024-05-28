@@ -1,0 +1,337 @@
+{
+    "name": "Elie Omatuku",
+    "description": "Développeur Android Sénior",
+    "subDescription": "Passionné de Flutter",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/ElieOmatuku97",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus"
+            }
+        },
+        {
+            "tooltip": "Medium",
+            "url": "https://medium.com/@elieomatuku",
+            "icon": {
+                "codePoint": "0xf008",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus"
+            }
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/elie-omatuku-a0374610b/",
+            "icon": {
+                "codePoint": "0xeffb",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus"
+            }
+        },
+        {
+            "tooltip": "elieomatuku@gmail.com",
+            "url": "mailto:elieomatuku@gmail.com",
+            "icon": {
+                "codePoint": "0xeaad",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus"
+            }
+        },
+        {
+            "tooltip": "+45 91 45 40 29",
+            "url": "tel:+4591454029",
+            "icon": {
+                "codePoint": "0xecbb",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus"
+            }
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url": "https://drive.google.com/file/d/1l-nTyTQZnVNhZSdSh1joss3mTWa7xanz/view?usp=sharing"
+        },
+        {
+            "languageCode": "fr",
+            "url": "https://drive.google.com/file/d/1l-nTyTQZnVNhZSdSh1joss3mTWa7xanz/view?usp=sharing"
+        }
+    ],
+    "aboutDescription": "Salut \uD83D\uDC4B! Je m'appelle Elie, je suis un ingénieur Android \uD83E\uDD16, je m'essaye également à Flutter pendant mon temps libre. Je suis originaire du Congo \uD83C\uDDE8\uD83C\uDDE9, j'ai vécu un moment au Cap, en Afrique du Sud \uD83C\uDDFF\uD83C\uDDE6 et maintenant je suis basé à Copenhague, au Danemark \uD83C\uDDE9\uD83C\uDDF0.\n\nJe travaille dans l'industrie du développement d'applications mobiles depuis 2018.",
+    "experiences": [
+        {
+            "role": "Développeur Android Sénior",
+            "company": "Shape Games",
+            "description": "En tant que développeur Android senior, je suis responsable de l'ingénierie/développement, de la maintenance et de l'amélioration des applications mobiles Android et SDK de Shape Games.",
+            "isPresent": true,
+            "startYear": 2023,
+            "startMonth": 9,
+            "technologies": [
+                {
+                    "name": "Android",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Java",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/java.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.shapegames.com/",
+                    "display": "Shape Games"
+                }
+            ]
+        },
+        {
+            "role": "Développeur Android intermédiaire",
+            "company": "Takealot.com. Cape Town, SA",
+            "description": "En tant que développeur Android intermédiaire, je suis responsable de l'ingénierie/développement, de la maintenance et de l'amélioration de l'application mobile Android de la boutique Takealot.com.",
+            "isPresent": false,
+            "startYear": 2021,
+            "startMonth": 9,
+            "endYear": 2023,
+            "endMonth": 8,
+            "technologies": [
+                {
+                    "name": "Android",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Java",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/java.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.takealot.com/",
+                    "display": "Takealot.com"
+                }
+            ]
+        },
+        {
+            "role": "Développeur Android junior",
+            "company": "Flat Circle (PYT) Ltd. Cape Town, SA",
+            "description": "En tant que développeur mobile junior, j'étais responsable de l'ingénierie/développement et de la maintenance des projets de développement mobile pour Flat Circle (PYT) Ltd., de ses clients et associés, ainsi que de la recherche de nouvelles technologies applicables au secteur d'activité de l'entreprise.",
+            "startYear": 2018,
+            "startMonth": 2,
+            "endYear": 2021,
+            "endMonth": 8,
+            "technologies": [
+                {
+                    "name": "Android",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Java",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/java.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/flutter.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ]
+        }
+    ],
+    "present": "Présent",
+    "projects": [
+        {
+            "name": "Cineast Android",
+            "description": "Une application Android de films construite sur l'API TMDB proposant des films populaires, au cinéma, à venir et les mieux notés. L'application présente également des acteurs/actrices populaires.",
+            "url": "https://github.com/ElieOmatuku97/cineast_android#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/cineast_front_image.png",
+            "technologies": [
+                {
+                    "name": "Android",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Starwars Flutter",
+            "description": "Une application Flutter qui permet aux fans de Star Wars de parcourir les informations fournies par l'API gratuite Star Wars.",
+            "url": "https://github.com/ElieOmatuku97/starwars_flutter#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/starwars_front_page.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/flutter.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/dart.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Migrating to Navigation with Jetpack Compose",
+            "description": "Suppose, that you have done the hard part of migrating all your views to jetpack compose. However, your navigation still relies on the view system navigation and you’d also like to fully migrate to navigating with jetpack compose. Seat tight and bring out the popcorns, this article covers just that.",
+            "url": "https://medium.com/@elieomatuku/migrating-to-navigation-with-jetpack-compose-442d90f3d904",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/navigation_article_front_image.png",
+            "technologies": [
+                {
+                    "name": "Android",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Using Jetpack Compose in an existing...",
+            "description": "Jetpack Compose has been stable for over a year now, and since then a massive adoption of the new UI tool has ensued. Although, an adoption has increased, there are still a lot of questions on how to integrate composables in an existing Android application which heavily relies on the View system.",
+            "url": "https://medium.com/@elieomatuku/using-jetpack-compose-in-an-existing-android-application-36df3f38d3dc",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "fontPackage": "icons_plus",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/migration_article_front_image.png",
+            "technologies": [
+                {
+                    "name": "Android",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/android-os.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/images/logos/software-development/kotlin.svg",
+                        "fontPackage": "icons_plus"
+                    }
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "Anglais",
+            "nativeName": "English",
+            "icon": {
+                "assetName": "assets/images/logos/flags/united-states-of-america.svg",
+                "fontPackage": "icons_plus"
+            }
+        },
+        {
+            "code": "fr",
+            "name": "Français",
+            "nativeName": "Français",
+            "icon": {
+                "assetName": "assets/images/logos/flags/france.svg",
+                "fontPackage": "icons_plus"
+            }
+        }
+    ],
+    "bottomBanner": {
+        "message": "Portfolio open source -",
+        "displayLink": "Forkez-le",
+        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+    },
+    "portfolio": "Portfolio",
+    "homeSectionTitle": "Accueil",
+    "aboutSectionTitle": "À propos",
+    "aboutSectionTitleAlt": "À propos de moi",
+    "experienceSectionTitle": "Expériences",
+    "projectsSectionTitle": "Projets",
+    "resume": "CV",
+    "downloadResume": "Télécharger le CV",
+    "openUrlError": "Impossible d'ouvrir l'url",
+    "unknownLanguageError": "Langue inconnue"
+}
