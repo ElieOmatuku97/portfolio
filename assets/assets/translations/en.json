@@ -38,15 +38,6 @@
                 "fontFamily": "FontAwesome",
                 "fontPackage": "icons_plus"
             }
-        },
-        {
-            "tooltip": "+45 91 45 40 29",
-            "url": "tel:+4591454029",
-            "icon": {
-                "codePoint": "0xecbb",
-                "fontFamily": "FontAwesome",
-                "fontPackage": "icons_plus"
-            }
         }
     ],
     "resumes": [
